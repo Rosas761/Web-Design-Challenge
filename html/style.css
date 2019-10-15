@@ -1,0 +1,40 @@
+
+
+body {
+    
+  background: #e6dfdf
+}
+
+.header h1 {
+    height: 100px;
+    padding-top: 20px;
+    background: #f1efef;
+    margin-left: 0px;
+  }
+
+  .navbar a{
+    display: inline-block;
+   
+  }
+
+  h1 {
+    font-size: 40px;
+    color:  #1fc2c2;
+  }
+
+  h2{
+
+    color:  #1fc2c2;
+  }
+
+  .dropdown-content a{
+
+  font-size: 50xp;
+
+  }
+
+  .container1 {
+
+    background: #e6dfdf
+
+  }
